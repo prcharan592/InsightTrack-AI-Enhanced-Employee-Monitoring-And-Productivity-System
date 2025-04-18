@@ -1,9 +1,4 @@
 
-title: "InsightTrack - AI-Enhanced Employee Monitoring And Productivity System"
-author: "Your Name"
-date: "`r Sys.Date()`"
-output: html_document
----
 
 # InsightTrack - AI-Enhanced Employee Monitoring And Productivity System
 
